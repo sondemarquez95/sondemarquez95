@@ -2,7 +2,7 @@
 
   <h1 style="font-size:42px; margin-bottom:4px;">👋 Héctor Márquez</h1>
   <h3 style="color:#6c757d; margin-top:0;">
-    Senior Data Engineer | Big Data | Cloudera | Cloud & Automation
+    Data Engineer | Big Data | Data governance | Data Analytics | T-SQL server | Power BI | Data Miner | Business Intelligence | Python| Cloudera | Cloud & Automation
   </h3>
 
   <p>
